@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633550848 source:c:\users\allad\onedrive\Документы\lab5(new)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"head1.h"
+
+1633554855 c:\users\allad\onedrive\Документы\lab5(new)\head1.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+

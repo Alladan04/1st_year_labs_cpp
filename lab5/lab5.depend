@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633546708 source:c:\users\allad\onedrive\Документы\lab5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
